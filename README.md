@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmaehring, a particle physics PhD at ETH Zürich
-- 👀 I’m interested in physics, statistics, and streamlining data analysis techniques for wider use
+- 👀 I’m interested in physics, statistics, and streamlining analysis techniques for wider use
 - 🗄️ I’m looking to collaborate on simplifying typical physics and data analysis workflows
 - 📫 Send me an E-Mail if you want to discuss something: mmaehring@ethz.ch
 
